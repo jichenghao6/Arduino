@@ -63,3 +63,32 @@ My four-digit seven-segment display model is 5461AS, with 12 pins. The table bel
 11.迷你“打地鼠”反应力测试仪 Mini "Whack-a-Mole" Reaction Tester
 * 红绿蓝三个LED灯接线方式参考地八个项目（自动化交通信号系统）。将9V电池和9V电池扣连接到Arduino板上。现在它可以脱离电脑独立运作了！  
 The wiring for the red, green, and blue LEDs follows the eighth project (Automated Traffic Signal System). Connect the 9V battery and 9V battery clip to the Arduino board. Now it can operate independently without a computer!
+
+
+## 材料清单
+以下是我初步学习时用到的材料：  
+Arduino UNO r3开发板 * 1 
+有源蜂鸣器 * 1 
+倾斜开关 * 1 
+三色RGB灯 * 1 
+全彩RGB灯 * 1 
+光敏传感器 * 1 
+火焰传感器 * 1 
+热敏电阻 * 1 
+实验面包板 * 1 
+电位器B10K * 1 
+四位数码管 * 1 
+直流马达 * 1 
+红发红LED灯 * 20 
+黄发黄LED灯 * 20 
+绿发绿LED灯 * 20 
+大轻触按键 * 5 
+按键帽 * 5 
+9V电池 * 1 
+9V电池扣 * 1 
+1/4W金属膜电阻包 * 1 
+杜邦线 三种 各十条 
+电机风扇叶 * 1 
+步进电机驱动板 * 1 
+65条面包线 
+数据条 * 1 
